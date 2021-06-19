@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+body {
+    font-family: Verdana;
+    background: rgb(46, 44, 44);
+}
+h1 {
+    color: white;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 10px;
+}
+ul, ol, li {
+    list-style: none;
+}
+.video_item {
+    display: inline;
+}
+ul {
+    width: 620px;
+    margin: auto;
+}
+
+
